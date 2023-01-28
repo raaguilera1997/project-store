@@ -6,5 +6,5 @@
      image:String,
      rating:Object,
      cantidad:0,
-
  }
+ export default Product
